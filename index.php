@@ -1,3 +1,3 @@
 <?php
- echo "Welcome To JIten Site"
+ echo "Welcome To iOS Deeplink Test Site"
  ?>

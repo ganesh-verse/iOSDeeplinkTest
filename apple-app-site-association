@@ -3,8 +3,8 @@
     "apps": [],
     "details": [
     {
-      "appID": "Z749HF98PP.com.verse.iaptestapp",
-      "paths": ["*"]
+      "appID": "Z749HF98PP.com.eternoinfotech.newshunt",
+      "paths": ["/news/*", "/buzz/*", "/Ebooks/*"]
     }
     ]
   }
